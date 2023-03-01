@@ -2,7 +2,7 @@
 
 ## Challenge:
 
-The challenge tells us to a user forgot his password and all we have is a memory dump, we need to find the forgotten password.
+The challenge tells us that an user forgot his password and all we have is a memory dump, we need to find the forgotten password.
 
 ## Solution
 
