@@ -10,7 +10,7 @@ The challenge gives us an image file to download:
 
 ![alt text](images/find-location-picture.jpg)
 
-The challenge gives us a .zip file, we unzip it and discover a html file:
+By running `exiftool` on the image, we can retrieve the metadata:
 
 ![alt text](images/find-location-metadata.png)
 
