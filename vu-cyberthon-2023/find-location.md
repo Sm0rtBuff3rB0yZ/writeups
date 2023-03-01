@@ -8,10 +8,10 @@
 
 The challenge gives us an image file to download:
 
-![alt text](images/find-location-location.jpg)
+![alt text](images/find-location-picture.jpg)
 
 The challenge gives us a .zip file, we unzip it and discover a html file:
 
-![alt text](images/find-location-metadata.jpg)
+![alt text](images/find-location-metadata.png)
 
 And we found the flag: `VU{d5bc0961009b25633293206cde4ca1e0}`
