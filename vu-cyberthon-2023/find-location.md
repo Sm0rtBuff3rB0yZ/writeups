@@ -2,7 +2,7 @@
 
 ## Challenge
 
-![alt text](images/find-location-subject.jpg)
+![](images/find-location-subject.jpg)
 
 ## Solution
 
