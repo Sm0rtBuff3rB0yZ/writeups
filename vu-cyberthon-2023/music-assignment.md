@@ -6,5 +6,5 @@
 
 ## Solution
 
-The challenge gives us a .zip file, we unzip it and discover a html file: \_VU Cyberthon 2023.html\_ \n
+The challenge gives us a .zip file, we unzip it and discover a html file: <ins>VU Cyberthon 2023.html</ins> <br>
 We can open it 
