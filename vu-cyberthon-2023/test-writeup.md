@@ -1,6 +1,6 @@
-#This is title
-##This is another title
-###Title yes
+# This is title
+## This is another title
+### Title yes
 
 This is a comment
 
