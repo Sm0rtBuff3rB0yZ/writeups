@@ -14,4 +14,4 @@ The challenge gives us a .zip file, we unzip it and discover a html file:
 
 ![alt text](images/find-location-metadata.png)
 
-And we found the flag: `VU{d5bc0961009b25633293206cde4ca1e0}`
+The flag is easily visible: `VU{d5bc0961009b25633293206cde4ca1e0}`
