@@ -26,10 +26,10 @@ cloudbase-init	1002	aad3b435b51404eeaad3b435b51404ee	49ce64bf89ed6f0b6a985d313e9
 no	1004	aad3b435b51404eeaad3b435b51404ee	c52295bb06a5d4de6c00c40abc898206
 USER62B	1005	aad3b435b51404eeaad3b435b51404ee	fc525c9683e8fe067095ba2ddc971889
 ```
-It's NTLM hashes, we can decode them with john:
-```
+It's NTLM hashes, we can decode them with an online tool and retrieve:
 
-```
+![alt text](images/memory-dump.png?raw=true)
+
 We try the decoded passwords but none of them work. <br>
 Therefore we keep digging for hints about passwords on the memory dump.<br>
 We start a filescan piped with a grep and discover a weird file named password.txt.
