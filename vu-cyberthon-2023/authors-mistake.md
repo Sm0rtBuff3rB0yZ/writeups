@@ -16,9 +16,11 @@ Clicking on the author of the post takes you to her/his profile, where you can s
 
 ![](images/authors-mistake-user.png)
 
+After looking at each photo, you can see that the last one has the flag as a comment:
+
 ![](images/authors-mistake-profile.png)
 
-After looking at each photo, you can see that the last one has the flag as a comment:
+The last picture:
 
 ![](images/authors-mistake-flag.png)
 
