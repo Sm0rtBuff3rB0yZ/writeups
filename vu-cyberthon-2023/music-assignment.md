@@ -25,6 +25,6 @@ It leads us to a google drive containing a .wav file, we download it and open it
 
 ![alt text](images/music-asignment6.png?raw=true)
 
-We quickly figured out it was morse code, we decode it and obtain the flag :
+We quickly figure out it was morse code, we decode it and obtain the flag :
 
 `VU{CYBERTHON2023}`
