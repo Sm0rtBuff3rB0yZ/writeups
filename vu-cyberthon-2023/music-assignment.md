@@ -18,3 +18,9 @@ We examine the source code:
 And stumble on a weird bit.ly link:
 
 ![alt text](images/music-asignment4.png?raw=true)
+
+It leads us to a google drive containing a .wav file, we download it and open it audacity:
+
+![alt text](images/music-asignment5.png?raw=true)
+
+![alt text](images/music-asignment6.png?raw=true)
