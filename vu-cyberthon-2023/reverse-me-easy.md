@@ -23,6 +23,6 @@ Enter password:1579
 Congrats! The correct CTF answer is a password.
 ```
 
-The flag is therefore:
+Thereore the flag is:
 
 `VU{1009:1579}`
